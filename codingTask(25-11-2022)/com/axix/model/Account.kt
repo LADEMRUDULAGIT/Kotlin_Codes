@@ -1,0 +1,1 @@
+data class AccountApp(var accountno:Int,var balance:Double=1000.0,var accounttype:String)
